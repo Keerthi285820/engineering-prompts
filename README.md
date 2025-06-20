@@ -495,4 +495,4 @@ This repository contains prompt chains for the following domains:
   ```text
   "Set up a CI/CD pipeline to automatically run Keploy tests as part of the deployment process. Include configuration for GitHub Actions or Jenkins to run tests whenever new code is pushed to the repository."
   ```
- - How would you design a resume builder app that takes user input and generates a downloadable PDF in different templates?
+- How would you design a resume builder web application that allows users to input their personal and professional details, choose from multiple visually appealing templates, and generate a downloadable PDF resume? Consider aspects like template switching, form validation, and PDF generation.
